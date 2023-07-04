@@ -21,7 +21,7 @@ Add version to libraries in winecfg via either protontricks or stl
 <code>WINEDLLOVERRIDES="winmm,version=n,b" __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1 %command% --launcher-skip -skipStartScreen -modded</code>
 <hr>
 <h3>Skyrim SE</h3>
-
+Guide: <a href="https://parilia.github.io/a/gaming/modding-skyrim-linux">https://parilia.github.io/a/gaming/modding-skyrim-linux</a><br><br>
 <b>Steps:</b><br><br>
 For Modding use stl and mod organiser, make sure skse is installed before installing MO2 through stl. <br>
 Make a mod from the skse data folder and install it on MO2.<br>
