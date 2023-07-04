@@ -1,4 +1,4 @@
-# gaming
+# Gaming
 A place for all my gaming related stuffs
 <!--
 <h3>Game</h3>
