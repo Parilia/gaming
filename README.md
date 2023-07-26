@@ -1,6 +1,7 @@
 # Gaming
 A place for all my gaming related stuffs
 <!--
+<hr>
 <h3>Game</h3>
 
 <b>Steps:</b><br><br>
@@ -8,6 +9,7 @@ A place for all my gaming related stuffs
 <br><br>
 <b>Steam Arguments:</b><br><br>
 <code>Arguments go here</code>
+
 -->
 
 
@@ -26,7 +28,7 @@ Guide: <a href="https://parilia.github.io/a/gaming/modding-skyrim-linux">https:/
 For Modding use stl and mod organiser, make sure skse is installed before installing MO2 through stl. <br>
 Make a mod from the skse data folder and install it on MO2.<br>
 install xact and xact_x64 through stl
-<br><br>
+<hr>
 <h3>Fallout 4</h3>
 <b>Steps:</b><br><br>
 Essentially the same steps as Skyrim - <br>
