@@ -27,3 +27,10 @@ For Modding use stl and mod organiser, make sure skse is installed before instal
 Make a mod from the skse data folder and install it on MO2.<br>
 install xact and xact_x64 through stl
 <br><br>
+<h3>Fallout 4</h3>
+<b>Steps:</b><br><br>
+Essentially the same steps as Skyrim - <br>
+For Modding use stl and mod organiser, make sure f4se is installed before installing MO2 through stl. <br>
+Make a mod from the f4se data folder and install it on MO2.<br>
+install xact and xact_x64 through stl
+
