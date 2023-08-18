@@ -44,4 +44,9 @@ Use Steam Tinker Launch to enable large address aware.
 Ultimate Apocalypse: <a href="https://parilia.github.io/a/gaming/ua-linux">https://parilia.github.io/a/gaming/ua-linux</a><br>
 Unification: Untested thus far but instaling through bottles should work.<br>
 Others: Using bottles to install should work. 
+<hr>
+<h3>Sins of a Solar Empire: Rebellion</h3>
+<br><br>
+<b>Steam Arguments:</b><br><br>
+<code>PROTON_LARGE_ADDRESS_AWARE=1 WINE_LARGE_ADDRESS_AWARE=1 %command% /nolauncher</code>
 
