@@ -46,6 +46,8 @@ Unification: Untested thus far but instaling through bottles should work.<br>
 Others: Using bottles to install should work. 
 <hr>
 <h3>Sins of a Solar Empire: Rebellion</h3>
+<b>Path to mod directory:</b>
+<br><br><code>/.steam/steam/steamapps/compatdata/204880/pfx/drive_c/users/steamuser/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.85</code>
 <br><br>
 <b>Steam Arguments:</b><br><br>
 <code>PROTON_LARGE_ADDRESS_AWARE=1 WINE_LARGE_ADDRESS_AWARE=1 %command% /nolauncher</code>
