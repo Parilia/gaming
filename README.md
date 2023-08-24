@@ -15,7 +15,7 @@ A place for all my gaming related stuffs
 Move default pfx location on steam<br>
 <br><code>STEAM_COMPAT_DATA_PATH= %command%</code><br>
 <br>
-the target path needs to be inside quotations<br>
+The target path needs to be inside quotations, important to check when changing the path to a new .exe<br>
 <br><code>"/path/to/exe"</code>
 
 <h2>Steam</h2>
