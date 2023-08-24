@@ -11,7 +11,9 @@ A place for all my gaming related stuffs
 <code>Arguments go here</code>
 
 -->
-
+<h2>Useful Info</h2>
+Move default pfx location on steam<br>
+<code>STEAM_COMPAT_DATA_PATH= %command%</code>
 
 <h2>Steam</h2>
 <h3>Cyberpunk</h3>
