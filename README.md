@@ -11,7 +11,7 @@ A place for all my gaming related stuffs
 <code>Arguments go here</code>
 
 -->
-<h2>Useful Info</h2>
+<h2>Useful Info - Steam</h2>
 Move default pfx location on steam<br>
 <br><code>STEAM_COMPAT_DATA_PATH= %command%</code><br>
 <br>
