@@ -13,7 +13,10 @@ A place for all my gaming related stuffs
 -->
 <h2>Useful Info</h2>
 Move default pfx location on steam<br>
-<code>STEAM_COMPAT_DATA_PATH= %command%</code>
+<br><code>STEAM_COMPAT_DATA_PATH= %command%</code><br>
+<br>
+the target path needs to be inside quotations<br>
+<br><code>"/path/to/exe"</code>
 
 <h2>Steam</h2>
 <h3>Cyberpunk</h3>
