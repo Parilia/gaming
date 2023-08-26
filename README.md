@@ -1,5 +1,5 @@
 # Gaming
-A place for all my gaming related stuffs
+A place for all my Linux gaming related stuffs
 <!--
 <hr>
 <h3>Game</h3>
