@@ -56,4 +56,11 @@ Others: Using bottles to install should work.
 <br><br>
 <b>Steam Arguments:</b><br><br>
 <code>PROTON_LARGE_ADDRESS_AWARE=1 WINE_LARGE_ADDRESS_AWARE=1 %command% /nolauncher</code>
+<hr>
+<h3>DeepRock Galactic</h3>
 
+<b>Steps:</b><br><br>
+Use GE Proton, disable mouse smoothing ingame
+<br><br>
+<b>Steam Arguments:</b><br><br>
+<code>gamemoderun PROTON_ENABLE_NVAPI=1 %command%</code>
