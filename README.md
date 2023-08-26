@@ -7,13 +7,16 @@ A place for all my Linux gaming related stuffs
 <b>Steps:</b><br><br>
 
 <br><br>
-<b>Steam Arguments:</b><br><br>
-<code>Arguments go here</code>
-
+<b>Steam Arguments:</b> 
+```bash
+Arguments go here
+```
 -->
 ## <h2>Useful Info - Steam</h2>
 Move default pfx location on steam<br>
-<br><code>STEAM_COMPAT_DATA_PATH= %command%</code><br>
+```bash
+STEAM_COMPAT_DATA_PATH= %command%
+```
 <br>
 The target path needs to be inside quotations, important to check when changing the path to a new .exe<br>
 <br><code>"/path/to/exe"</code>
@@ -24,8 +27,10 @@ The target path needs to be inside quotations, important to check when changing 
 <b>Steps:</b><br><br>
 Add version to libraries in winecfg via either protontricks or stl
 <br><br>
-<b>Steam Arguments:</b><br><br>
-<code>WINEDLLOVERRIDES="winmm,version=n,b" __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1 %command% --launcher-skip -skipStartScreen -modded</code>
+<b>Steam Arguments:</b> 
+```bash
+WINEDLLOVERRIDES="winmm,version=n,b" %command% --launcher-skip -skipStartScreen -modded
+```
 <hr>
 
 
@@ -59,13 +64,17 @@ Others: Using bottles to install should work.
 <b>Path to mod directory:</b>
 <br><br><code>/.steam/steam/steamapps/compatdata/204880/pfx/drive_c/users/steamuser/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.85</code>
 <br><br>
-<b>Steam Arguments:</b><br><br>
-<code>PROTON_LARGE_ADDRESS_AWARE=1 WINE_LARGE_ADDRESS_AWARE=1 %command% /nolauncher</code>
+<b>Steam Arguments:</b> 
+```bash
+PROTON_LARGE_ADDRESS_AWARE=1 WINE_LARGE_ADDRESS_AWARE=1 %command% /nolauncher
+```
 <hr>
 
 ## DeepRock Galactic
 <b>Steps:</b><br><br>
 Use GE Proton, disable mouse smoothing ingame
 <br><br>
-<b>Steam Arguments:</b><br><br>
-<code>gamemoderun PROTON_ENABLE_NVAPI=1 %command%</code>
+<b>Steam Arguments:</b> 
+```bash
+gamemoderun PROTON_ENABLE_NVAPI=1 %command%
+```
