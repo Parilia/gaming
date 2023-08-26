@@ -21,7 +21,11 @@ STEAM_COMPAT_DATA_PATH= %command%
 The target path needs to be inside quotations, important to check when changing the path to a new .exe<br>
 <br><code>"/path/to/exe"</code>
 
-
+To enable <a href="https://github.com/FeralInteractive/gamemode">Gamemode</a> use this steam argument:
+```bash
+gamemoderun %command%
+```
+<hr>
 
 ##  Cyberpunk 
 <b>Steps:</b><br><br>
