@@ -14,17 +14,30 @@ Arguments go here
 -->
 ## <h2>Useful Info - Steam</h2>
 Move default pfx location on steam<br>
+
 ```bash
 STEAM_COMPAT_DATA_PATH= %command%
 ```
 <br>
 The target path needs to be inside quotations, important to check when changing the path to a new .exe<br>
-<br><code>"/path/to/exe"</code>
-
+<br><code>"/path/to/exe"</code><br>
+<br>
 To enable <a href="https://github.com/FeralInteractive/gamemode">Gamemode</a> use this steam argument:
+
 ```bash
 gamemoderun %command%
 ```
+
+<br>
+Running native games on steam with nvidia when in hybrid mode (having two GPUs, usually an intel igpu and nvidia dgpu).
+Use this steam argument to force the game to use your nvidia gpu:
+
+```bash
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia %command%
+```
+
+These can also be used as eviromental variables outside of steam.
+
 <hr>
 
 ##  Cyberpunk 
