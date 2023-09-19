@@ -37,6 +37,14 @@ __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia %command%
 ```
 
 These can also be used as eviromental variables outside of steam.
+<br>
+<br>
+<br>
+To enable Gamescope use:
+
+```bash
+gamescope -W 1920 -H 1080 -r 60 -- %command%
+```
 
 <hr>
 
