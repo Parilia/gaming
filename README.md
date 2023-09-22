@@ -39,13 +39,19 @@ __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia %command%
 These can also be used as eviromental variables outside of steam.
 <br>
 <br>
-<br>
 To enable Gamescope use:
 
 ```bash
 gamescope -W 1920 -H 1080 -r 60 -- %command%
 ```
+<br>
+<br>
+If you want to expose your NVIDIA gpu (usually needed only to take advantage of nvidia techs) use:
 
+```bash
+PROTON_HIDE_NVIDIA_GPU=0 PROTON_ENABLE_NVAPI=1
+```
+<br>
 <hr>
 
 ##  Cyberpunk 
