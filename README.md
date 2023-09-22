@@ -42,7 +42,7 @@ These can also be used as eviromental variables outside of steam.
 To enable Gamescope use:
 
 ```bash
-gamescope -W 1920 -H 1080 -r 60 -- %command%
+gamescope -W 1920 -H 1080 -r 60 -fullscreen -- %command%
 ```
 <br>
 <br>
