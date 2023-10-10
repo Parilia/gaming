@@ -62,6 +62,11 @@ Add version to libraries in winecfg via either protontricks or stl
 ```bash
 WINEDLLOVERRIDES="winmm,version=n,b" %command% --launcher-skip -skipStartScreen -modded
 ```
+Current
+
+```bash
+WINEDLLOVERRIDES="winmm" PROTON_HIDE_NVIDIA_GPU=0 PROTON_ENABLE_NVAPI=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia %command% --launcher-skip -skipStartScreen -modded
+```
 <hr>
 
 
