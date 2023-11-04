@@ -87,6 +87,11 @@ install xact and xact_x64 through stl
 <hr>
 
 ##  Dawn of War Soulstorm
+<br><br>
+<b>Steam Arguments:</b> 
+```bash
+PULSE_LATENCY_MSEC=60 PROTON_FORCE_LARGE_ADDRESS_AWARE=1 %command% -nomovies
+```
 <b>Steps:</b><br><br>
 Use Steam Tinker Launch to enable large address aware. 
 <br><br>
@@ -94,6 +99,33 @@ Use Steam Tinker Launch to enable large address aware.
 Ultimate Apocalypse: <a href="https://parilia.github.io/a/gaming/ua-linux">https://parilia.github.io/a/gaming/ua-linux</a><br>
 Unification: Untested thus far but instaling through bottles should work.<br>
 Others: Using bottles to install should work. 
+
+If you want to use the unification mod, just move the four parts into ~/.local/share/Steam/steamapps/common/Dawn\ of\ War\ Soulstorm/, then copy and paste the following commands
+```
+cd ~/.local/share/Steam/steamapps/common/Dawn\ of\ War\ Soulstorm/
+mv Soulstorm.exe Soulstorm.exe.bac
+mv Unification-v6.9.0-Full.exe Soulstorm.exe # or whatever version you use
+```
+Now run the game once, and install the mod. Then run:
+```
+cd ~/.local/share/Steam/steamapps/common/Dawn\ of\ War\ Soulstorm/
+mv DoW_Mod_Manager_v2.3.1.0.exe Soulstorm.exe # Version may change, so look what is there
+```
+start the game again The mod manager should start right up, then
+```
+cd ~/.local/share/Steam/steamapps/common/Dawn\ of\ War\ Soulstorm/
+mv Soulstorm.exe DowModManager.exe
+mv Soulstorm.exe.bac Soulstorm.exe
+```
+and now you can enable laa and play with the unification mod on Linux! To start the mod manager again, simply do
+```
+cd ~/.local/share/Steam/steamapps/common/Dawn\ of\ War\ Soulstorm/
+mv Soulstorm.exe Soulstorm.exe.bac
+mv DowModManager.exe Soulstorm.exe
+```
+and once you started it, repeat the 3rd code block There is probably a better way to do this, but you can just put these comnmand into a script and just run that.
+
+
 <hr>
 
 ## Sins of a Solar Empire: Rebellion
