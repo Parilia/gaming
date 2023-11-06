@@ -1,5 +1,5 @@
 # Gaming
-A place for all my Linux gaming related stuffs
+A place for all my Linux gaming related stuffs, Visit the wiki for more info: <a href="https://github.com/Parilia/gaming/wiki">Linux Gaming Wiki</a>
 <!--
 <hr>
 ## Game
@@ -11,7 +11,7 @@ A place for all my Linux gaming related stuffs
 ```bash
 Arguments go here
 ```
--->
+
 ## <h2>Useful Info - Steam</h2>
 Move default pfx location on steam<br>
 
@@ -146,3 +146,4 @@ Use GE Proton, disable mouse smoothing ingame
 ```bash
 gamemoderun PROTON_ENABLE_NVAPI=1 %command%
 ```
+-->
