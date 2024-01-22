@@ -1,0 +1,29 @@
+
+Show
+    SocketGroup 3RGB
+
+Hide
+    Rarity < Unique
+    Class "Two Hand" "Claws" "Wands" "Swords" "Axes" "Maces" "Bows" "Staves" "Quivers" "Shields" "Sceptres"
+
+Hide
+    Rarity < Unique
+    Class "Boots"
+    BaseType "Greaves" "Treads" "Shoes" "Slippers" "Scholar" "Sorcerer" "Arcanist" "scale" "Two-Toned" "Legion" "Soldier" "Crusader" "Riveted" "Zealot" "Mesh" "Ringmail" "Chain"
+    
+Hide
+    Rarity < Unique
+    Class "Body Armours"
+    BaseType "Chestplate" "Plate" "Robe" "Robe" "Regalia" "Wrap" "Silk" "Silks" "Vestment" "Brigandine" "Doublet" "Scale" "Lamellar" "scale" "Tunic" "Coat" "Chainmail" "Ringmail" "Hauberk"
+
+Hide
+    Rarity < Unique
+    Class "Gloves"
+    BaseType "Gauntlets" "Spiked Gloves" "Wool" "Leyline" "Velvet" "Silks" "Embroidered" "Aetherwind" "Satin" "Samite" "Conjurer" "Arcanist" "Sorcerer" "Silk" "Nexus" "Chain" "Ringmail" "Mesh" "Riveted" "Zealot" "Soldier" "Legion" "Crusader" "Apothecary"
+
+Hide
+    Rarity < Unique
+    Class "Helmets"
+    BaseType "Helmet" "Burgonet" "Circlet" "Cage" "Helm" "Sallet" "Sorrow" "Atonement" "Bascinet" "Penitent" "Coif" "Imp Crown" "Demon Crown" "Prophet Crown" "Praetor Crown" "Archdemon Crown"
+
+Show
