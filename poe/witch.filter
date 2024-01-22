@@ -1,0 +1,34 @@
+
+Show
+    SocketGroup 3RGB
+
+Hide
+    Rarity < Unique
+    Class "Two Hand" "Claws" "Daggers" "Swords" "Axes" "Maces" "Bows" "Staves" "Quivers" "Sceptres"
+
+Hide
+    Rarity < Unique
+    Class "Boots"
+    BaseType "Greaves" "Treads" "Shoes" "Rawhide" "Goathide" "Cloudwhisper" "Deerskin" "Nubuck" "Eelskin" "Sharkskin" "Windbreak" "Shagreen" "Stealth" "Slink" "Stormrider" "scale" "Two-Toned" "Legion" "Soldier" "Crusader" "Riveted" "Zealot" "Mesh" "Ringmail" "Chain" "Clasped" "Shackled"
+    
+Hide
+    Rarity < Unique
+    Class "Body Armours"
+    BaseType "Chestplate" "Plate" "Leather" "Jerkin" "Tunic" "Garb" "Brigandine" "Doublet" "Scale" "Lamellar" "scale" "Tunic" "Coat" "Chainmail" "Ringmail" "Hauberk" "Jacket"
+
+Hide
+    Rarity < Unique
+    Class "Gloves"
+    BaseType "Gauntlets" "Spiked Gloves" "Mitts" "Leyline" "Rawhide" "Goathide" "Gauche" "Southswing" "Deerskin" "Nubuck" "Eelskin" "Sharkskin" "Windbreak" "Shagreen" "Stealth" "Slink" "Gripped" "Sinistral" "Chain" "Ringmail" "Mesh" "Riveted" "Zealot" "Soldier" "Legion" "Crusader" "Apothecary"
+
+Hide
+    Rarity < Unique
+    Class "Helmets"
+    BaseType "Helmet" "Burgonet" "Cap" "Tricorne" "Hood" "Pelt" "Helm" "Sallet" "Sorrow" "Atonement" "Bascinet" "Penitent" "Coif" "Imp Crown" "Demon Crown" "Prophet Crown" "Praetor Crown" "Archdemon Crown" "Mask"
+
+Hide
+    Rarity < Unique
+    Class "Shields"
+    BaseType "Tower" "Round" "Buckler" "Kite" "Spiked"
+
+Show
